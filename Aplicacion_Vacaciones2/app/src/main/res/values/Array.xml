@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="Lugares">
+        <item>Cascada| Ecuador</item>
+        <item>Catarata| Argentina</item>
+        <item>Cristo Redentor|Brazil</item>
+        <item>Cuzco| Peru</item>
+        <item>Salar|Chile</item>
+    </array>
+    <array name="Lugares_Imagenes">
+        <item>@drawable/cascada</item>
+        <item>@drawable/catararta</item>
+        <item>@drawable/cristo</item>
+        <item>@drawable/cuzco</item>
+        <item>@drawable/salar</item>
+    </array>
+</resources>
